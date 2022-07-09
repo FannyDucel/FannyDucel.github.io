@@ -47,9 +47,11 @@ Skills
 Publications
 ======
   <ul>
-  <li> [Langues par défaut? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d’ACL (Contrastive and diachronic study of unmentioned (by default ?) languages in TALN and ACL We study the application of the #BenderRule in natural language processing articles, taking into account a contrastive and a diachronic dimensions, by examining the proceedings of two NLP conferences, TALN and ACL, over time)](https://aclanthology.org/2022.jeptalnrecital-taln.14) (Ducel et al., JEP/TALN/RECITAL 2022)</li>
-  <li> Fanny Ducel, Karën Fort, Gaël Lejeune, Yves Lepage. Do we Name the Languages we Study? The #BenderRule in LREC and ACL articles. LREC 2022 - International Conference on Language Resources and Evaluation (LREC), Jun 2022, Marseille, France. ⟨hal-03680561⟩ https://hal.inria.fr/hal-03680561/ </li>
-</ul>
+
+<li> Fanny Ducel, Karën Fort, Gaël Lejeune, Yves Lepage. Langues « par défaut » ? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d'ACL. Conférence sur le Traitement Automatique des Langues Naturelles (TALN), Jun 2022, Avignon, France. <a href="https://hal.inria.fr/hal-03680565/"> [hal-03680565] </a> </li>
+<li>  Fanny Ducel, Karën Fort, Gaël Lejeune, Yves Lepage. Do we Name the Languages we Study? The #BenderRule in LREC and ACL articles. LREC 2022 - International Conference on Language Resources and Evaluation (LREC), Jun 2022, Marseille, France. <a href="https://hal.inria.fr/hal-03680561/">[hal-03680561]</a> </li>
+  
+ </ul>
   
 Talks
 ======
