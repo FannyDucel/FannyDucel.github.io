@@ -11,11 +11,11 @@ redirect_from:
 <h2>"Bienvenue" on my personal academic page!</h2>
 
 
-ducelfanny@gmail.com
+<h4>ducelfanny@gmail.com
 
-Fanny.Ducel@etu.sorbonne-universite.fr
+Fanny.Ducel@etu.sorbonne-universite.fr</h4>
 
-<h4>M2 Student at Sorbonne-Université, Paris, France</h4>
+<h3>M2 Student at Sorbonne-Université, Paris, France</h3>
 
 I obtained a bachelor's degree in Linguistics and NLP (Sciences du Langage spécialité Informatique) at Sorbonne-Université in 2021. 
 
