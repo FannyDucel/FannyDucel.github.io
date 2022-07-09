@@ -12,9 +12,10 @@ redirect_from:
 
 
 ducelfanny@gmail.com
+
 Fanny.Ducel@etu.sorbonne-universite.fr
 
-M2 Student at Sorbonne-Université, Paris, France
+<h4>M2 Student at Sorbonne-Université, Paris, France</h4>
 
 I obtained a bachelor's degree in Linguistics and NLP (Sciences du Langage spécialité Informatique) at Sorbonne-Université in 2021. 
 
