@@ -14,3 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ <ul>
+    <li> Fanny Ducel, Karën Fort, Gaël Lejeune, yves Lepage. Langues « par défaut » ? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d'ACL. Conférence sur le Traitement Automatique des Langues Naturelles (TALN), Jun 2022, Avignon, France. ⟨https://hal.inria.fr/hal-03680565/) </li>
+      
+      
+    <li> Fanny Ducel, Karën Fort, Gaël Lejeune, Yves Lepage. Do we Name the Languages we Study? The #BenderRule in LREC and ACL articles. LREC 2022 - International Conference on Language Resources and Evaluation (LREC), Jun 2022, Marseille, France. ⟨https://hal.inria.fr/hal-03680561/) </li>
+  
+ </ul>
