@@ -33,8 +33,9 @@ I've already worked on the application of the #BenderRule in ACL, LREC and TALN 
 <h3>Activities</h3>
 <ul>
   <li>Part-time job as an assistant at CERES (Sorbonne-Université, Paris), September 2022</li>
+  <li> M1 Internship at LORIA (Nancy), July-September 2022 </li>
   <li>Presented a poster at TALN, June 2022 (Avignon)</li>
   <li> Presented a paper at LREC, June 2022 (Marseille)</li>
 <li> Was a tutor for the NLP specialization in the bachelor's of linguistics (Sciences du Langage) program at Sorbonne-Université, 2021-2023 </li>
-  <li> L3 Internship at LORIA, June-August 2021 </li>
+  <li> L3 Internship at LORIA (Nancy), June-August 2021 </li>
  </ul>
