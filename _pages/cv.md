@@ -17,7 +17,7 @@ Education
 Work experience
 ======
     
-* Fall-Winter 2022 : Research Assistant (Part-Time Position)
+* September 2022 : Research Assistant (Part-Time Position)
   * CERES (Sorbonne Université), Paris (France)
   * Duties included: administrative tasks, coding, participating in research projects
   * Supervisor: Gaël Lejeune
