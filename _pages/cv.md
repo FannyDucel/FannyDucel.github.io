@@ -40,9 +40,9 @@ Work experience
 Skills
 ======
 * Go-to language : Python 🐍
-* Basic knowledge in other languages : HTML, CSS, XML, Markdown, Java, C++, SQL, SPARQL
-* NLP tools : TXM, Antconc, Unitex, Praat, GREW-match, GATE
-* Other tools : Neo4j, GitHub
+* Basic knowledge in other languages : LATEX, HTML, CSS, XML, Markdown, Java, C++, SQL, SPARQL, VoiceXML (Voxeo), UML
+* NLP tools : TXM, Antconc, Unitex, Praat, GREW-match, GATE, HTK, MBROLA, espeak, audeep
+* Other tools : Neo4j, GitHub, Apache Solr, GANT, Agile (Scrum), Gephi, Twitter API
 
 Publications
 ======
@@ -58,4 +58,8 @@ Talks
   <ul>
   <li> Oral presentation at LREC 2022, Marseille </li>
   <li> Poster at TALN 2022, Avignon </li></ul>
+   
+Misc
+====== 
+* Secondary reviewer for an ACL 2023 article
 
