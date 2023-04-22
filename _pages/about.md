@@ -17,9 +17,9 @@ Fanny.Ducel@etu.sorbonne-universite.fr</h4>
 
 <h3>M2 Student at Sorbonne-Université, Paris, France</h3>
 
-I obtained a bachelor's degree in Linguistics and NLP (Sciences du Langage spécialité Informatique) at Sorbonne-Université in 2021. 
+I obtained a bachelor's degree in Linguistics and NLP ("Sciences du Langage spécialité Informatique") at Sorbonne-Université in 2021. 
 
-I'll be starting my M2 in Linguistics & Computer science (Langue & informatique) at Sorbonne-Université in Paris in September 2022. 
+I started my second year of master's degree in Linguistics & Computer science ("Langue & informatique") at Sorbonne-Université in Paris in September 2022. 
 
 I'd like to start a PhD in NLP after my master's degree.
 
@@ -27,15 +27,16 @@ I'd like to start a PhD in NLP after my master's degree.
 
 I'm especially interested in NLP4NLP and ethics. 
 
-I've already worked on the application of the #BenderRule in ACL, LREC and TALN articles and co-authored 2 articles regarding that study.
+I've already worked on the application of the #BenderRule in ACL, LREC and TALN articles and co-authored 2 articles regarding that study. In September 2022, I defended my M1 thesis on claims in NLP articles. I'm currently working on my M2 thesis on biases in Langage Models.
 
 
 <h3>Activities</h3>
 <ul>
-  <li>Part-time job as an assistant at CERES (Sorbonne-Université, Paris), September 2022</li>
-  <li> M1 Internship at LORIA (Nancy), July-September 2022 </li>
-  <li>Presented a poster at TALN, June 2022 (Avignon)</li>
-  <li> Presented a paper at LREC, June 2022 (Marseille)</li>
-<li> Was a tutor for the NLP specialization in the bachelor's of linguistics (Sciences du Langage) program at Sorbonne-Université, 2021-2023 </li>
-  <li> L3 Internship at LORIA (Nancy), June-August 2021 </li>
+    <li> M2 Internship at LORIA (Nancy, France), March-August 2023 </li>
+  <li>Part-time job as an assistant at CERES (Sorbonne-Université, Paris, France), September 2022</li>
+  <li> M1 Internship at LORIA (Nancy, France), July-September 2022 </li>
+  <li>Presented a poster at TALN, June 2022 (Avignon, France)</li>
+  <li> Presented a paper at LREC, June 2022 (Marseille, France)</li>
+<li> Was a tutor for the NLP specialization in the bachelor's of linguistics ("Sciences du Langage") at Sorbonne-Université, 2021-2023 </li>
+  <li> L3 Internship at LORIA (Nancy, France), June-August 2021 </li>
  </ul>
