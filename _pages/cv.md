@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the English version of my CV here : trash:///CV_ducel_fanny_sfiucr(1).pdf
+You can find the English version of my CV here : [[CV_ducel_fanny_sfiucr(1).pdf]]
 
-Et la version française ici : trash:///CV_ducel_fanny_sfiucr.pdf
+Et la version française ici : [[CV_ducel_fanny_sfiucr.pdf]]
