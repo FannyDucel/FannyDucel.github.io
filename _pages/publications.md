@@ -11,7 +11,7 @@ author_profile: true
 **NEW ! Our paper on the presence of Big Tech in NLP has been accepted at ACL 2023 !**
 * The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research. Mohamed Abdalla, Jan Philip Wahle, Terry Ruas, Aurélie Névéol, **Fanny Ducel**, Saif Mohammad, Karën Fort. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), July 2023, Toronto, Canada.
 * [Do we Name the Languages we Study? The #BenderRule in LREC and ACL articles.](https://aclanthology.org/2022.lrec-1.60.pdf) **Fanny Ducel**, Karën Fort, Gaël Lejeune, Yves Lepage. LREC 2022 - International Conference on Language Resources and Evaluation (LREC), June 2022, Marseille, France.
-* [Langues « par défaut » ? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d’ACL.] (https://aclanthology.org/2022.jeptalnrecital-taln.14.pdf) **Fanny Ducel**, Karën Fort, Gaël Lejeune, Yves Lepage. Conférence sur le Traitement Automatique des Langues Naturelles (TALN), June 2022, Avignon, France.
+* [Langues « par défaut » ? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d’ACL.](https://aclanthology.org/2022.jeptalnrecital-taln.14.pdf) **Fanny Ducel**, Karën Fort, Gaël Lejeune, Yves Lepage. Conférence sur le Traitement Automatique des Langues Naturelles (TALN), June 2022, Avignon, France.
  
 
 # Master's thesis (in French)
