@@ -15,6 +15,8 @@ redirect_from:
 
 Fanny.Ducel@etu.sorbonne-universite.fr</h4>
 
+**NEW !! Our paper on Big Tech presence in NLP got accepted at ACL 2023 !!**
+
 <h3>M2 Student at Sorbonne-Université, Paris, France</h3>
 
 I obtained a bachelor's degree in Linguistics and NLP ("Sciences du Langage spécialité Informatique") at Sorbonne-Université in 2021. 
