@@ -16,13 +16,13 @@ redirect_from:
 Fanny.Ducel@etu.sorbonne-universite.fr</h4>
 
 _________________________________________________________________________________
-<span style="color:red">
+
 <h3 style="color:red">NEWS</h3>
 <li>
 <ul style="color:red"> Our paper on Big Tech presence in NLP got accepted at ACL 2023 !! </ul>
 <ul style="color:red"> My submission at the *Workshop on Algorithmic Injustice* has also been accepted, I'll be presenting in Amsterdam soon ! </ul>
 </li>
-</span>
+
 _________________________________________________________________________________
 
 <h3>M2 Student in NLP at Sorbonne-Université, Paris, France</h3>
@@ -37,9 +37,10 @@ I'd like to start a PhD in NLP after my master's degree.
 
 I'm especially interested in ethics, NLP4NLP, linguistic diversity, sociolinguistics. 
 
+<!--
 I've already worked on the application of the #BenderRule in ACL, LREC and TALN articles and co-authored 2 articles regarding that study. In September 2022, I defended my M1 thesis on claims in NLP articles. I'm currently working on my M2 thesis on biases in Language Models.
 
-<!--
+
 <h3>Activities</h3>
 <ul>
     <li> M2 Internship at LORIA (Nancy, France), March-August 2023 </li>
