@@ -13,29 +13,21 @@ redirect_from:
 
 <h4>ducelfanny@gmail.com
 
-Fanny.Ducel@etu.sorbonne-universite.fr</h4>
+fanny.ducel@lisn.upsaclay.fr</h4>
 
 _________________________________________________________________________________
 
-<h3 style="color:red">NEWS</h3>
-<li>
-<ul style="color:red"> Our paper on Big Tech presence in NLP got accepted at ACL 2023 !! </ul>
-<ul style="color:red"> My submission at the *Workshop on Algorithmic Injustice* has also been accepted, I'll be presenting in Amsterdam soon ! </ul>
-</li>
-
 _________________________________________________________________________________
 
-<h3>M2 Student in NLP at Sorbonne-Université, Paris, France</h3>
+<h3>PhD Student at LISN, Université Paris-Saclay and LORIA (France)</h3>
 
-I obtained a bachelor's degree in Linguistics and NLP ("Sciences du Langage spécialité Informatique") at Sorbonne-Université in 2021. 
+I started my first year of PhD in October 2023. I'm working on the evaluation of stereotypical biases in autoregressive language models.
 
-I started my second year of master's degree in Linguistics & Computer science ("Langue & informatique") at Sorbonne-Université in Paris in September 2022. 
-
-I'd like to start a PhD in NLP after my master's degree.
+I have a master's degree in Linguistics and Computer Science and a bachelor's degree in Linguistics and NLP, both from Sorbonne-Université. 
 
 <h3>Interests</h3>
 
-I'm especially interested in ethics, NLP4NLP, linguistic diversity, sociolinguistics. 
+I'm especially interested in ethics, NLP4NLP, linguistic diversity, and sociolinguistics. 
 
 <!--
 I've already worked on the application of the #BenderRule in ACL, LREC and TALN articles and co-authored 2 articles regarding that study. In September 2022, I defended my M1 thesis on claims in NLP articles. I'm currently working on my M2 thesis on biases in Language Models.
