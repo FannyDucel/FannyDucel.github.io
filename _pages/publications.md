@@ -1,12 +1,13 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Fanny%2CDucel&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css
 author_profile: true
 ---
 
 
   You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yR-y0zIAAAAJ).
+
 
 * [Bias Identification in Language Models is Biased.](https://inria.hal.science/hal-04171198) **Fanny Ducel**, Aurélie Névéol, Karën Fort. Workshop on Algorithmic Injustice, June 2023, Amsterdam, Netherlands.
 * [The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research.](https://arxiv.org/abs/2305.02797) Mohamed Abdalla, Jan Philip Wahle, Terry Ruas, Aurélie Névéol, **Fanny Ducel**, Saif Mohammad, Karën Fort. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), July 2023, Toronto, Canada.
