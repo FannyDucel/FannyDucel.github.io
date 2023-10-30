@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Publications"
-permalink: https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Fanny%2CDucel&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css
+permalink: /publications/
 author_profile: true
 ---
 
 
-  You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yR-y0zIAAAAJ).
+  You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yR-y0zIAAAAJ) and a dynamically updated list [here](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Fanny%2CDucel&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css).
 
 
 * [Bias Identification in Language Models is Biased.](https://inria.hal.science/hal-04171198) **Fanny Ducel**, Aurélie Névéol, Karën Fort. Workshop on Algorithmic Injustice, June 2023, Amsterdam, Netherlands.
