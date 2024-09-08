@@ -10,7 +10,7 @@ author_profile: true
 ### Python labs, Beginners group, M1 NLP-SC, IDMC (Nancy), Université de Lorraine.
 
 Materials (all from [Karën Fort](https://members.loria.fr/KFort/idmc-nancy-from-2024/) and slightly modified by myself):
-* Lab1, : [here]({{ BASE_PATH }}/_pages/M1_Python4Beg_TD1-v2.ipynb)
+* [Lab 1]({{ BASE_PATH }}/_pages/M1_Python4Beg_TD1-v2.ipynb)
 
 ### Ethics labs, M1 NLP, IDMC (Nancy), Université de Lorraine.
 
