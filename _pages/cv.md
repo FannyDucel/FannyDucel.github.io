@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the English version of my CV (see French version for most up to date) [here]({{ BASE_PATH }}/_pages/CV_ducel_fanny_en.pdf)
+Last updated: 09/2024
 
-Et la version française [ici]({{ BASE_PATH }}/_pages/CV_ducel_fanny_fr.pdf)
+[English version]({{ BASE_PATH }}/_pages/CV_ducel_fanny-en-092024.pdf)
+
+[French version]({{ BASE_PATH }}/_pages/CV_ducel_fanny-fr-0924.pdf)
