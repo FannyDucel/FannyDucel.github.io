@@ -20,7 +20,7 @@ Materials (all from [Karën Fort](https://members.loria.fr/KFort/idmc-nancy-from
 <h3> Lecture and lab 1 </h3>
 <ul>
 <li> Updated version of Lecture 1 - TO BE ADDED AFTER LECTURE 2 </li>
-<li> [Lab 1]({{ BASE_PATH }}/_pages/M1_Python4Beg_TD1-v2.ipynb) </li>
+<li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_TD1-v2.ipynb">Lab 1</a> </li>
 </ul>
 
 <h3> Lecture and lab 2 </h3>
