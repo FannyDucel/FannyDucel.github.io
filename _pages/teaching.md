@@ -31,7 +31,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 
 <h3> Lecture and lab 3 </h3>
 <ul>
-<li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_Lecture3_DicoFunctions.slides.html">Lecture 3</a> </li>
+<li> <a href="{{ BASE_PATH }}/files/M1_Python4Beg_Lecture3_DicoFunctions.slides.html">Lecture 3</a> </li>
 <li> Lab 3 - TBA</li>
 </ul>
 
@@ -42,6 +42,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <summary> <b> Grid5k introduction, M1 NLP-SC, IDMC (Nancy), Université de Lorraine.</b> </summary>
 <ul>
 <li>  <a href="{{ BASE_PATH }}/_pages/Grid5k_M1TAL.pdf">Slides - theory and essential commands</a> </li>
+<li>  <a href="{{ BASE_PATH }}/_pages/Grid5k_M1TAL_practice.pdf">Slides - practice (your turn)</a> </li>
 </ul>
 </details>
 
