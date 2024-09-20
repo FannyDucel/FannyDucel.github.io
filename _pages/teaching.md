@@ -19,7 +19,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 
 <h3> Lecture and lab 1 </h3>
 <ul>
-<li> Updated version of Lecture 1 - TO BE ADDED AFTER LECTURE 2 </li>
+<li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_Lecture1_StringsControlLoop.slides.html"> Lecture 1 </a> </li>
 <li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_TD1-v2.ipynb">Lab 1</a> </li>
 </ul>
 
@@ -28,6 +28,13 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_Lecture2_ListsTuplesSetsFiles.slides.html">Lecture 2</a>, <a href="{{ BASE_PATH }}/_pages/80jours50l.txt">80jours50l file</a> </li>
 <li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_TD2.ipynb">Lab 2</a> </li>
 </ul>
+
+<h3> Lecture and lab 3 </h3>
+<ul>
+<li> <a href="{{ BASE_PATH }}/_pages/M1_Python4Beg_Lecture3_DicoFunctions.slides.html">Lecture 3</a> </li>
+<li> Lab 3 - TBA</li>
+</ul>
+
 
 </details>
 
