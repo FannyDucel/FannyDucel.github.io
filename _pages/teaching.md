@@ -43,6 +43,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <ul>
 <li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL.pdf">Slides - theory and essential commands</a> </li>
 <li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_practice.pdf">Slides - practice (your turn)</a> </li>
+<li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_solutions.pdf">Solutions from exercises and setting up the alias</a> </li>
 </ul>
 </details>
 
