@@ -1,0 +1,7 @@
+The Role of Cognitive Biases in Human Decision-Making
+Human decision-making is often affected by cognitive biases, which are systematic errors in thinking that influence judgments and decisions. 
+One common bias is the confirmation bias, where individuals favor information that confirms their pre-existing beliefs while disregarding evidence to the contrary. 
+Another well-known bias is the availability heuristic, which causes people to overestimate the importance of information that is easily recalled, often because it is recent or emotionally striking.
+Cognitive science explores how these biases emerge from the brain's need to process vast amounts of information efficiently. 
+By relying on heuristics or mental shortcuts, the brain often sacrifices accuracy for speed, leading to biased outcomes. 
+Understanding these processes helps psychologists and cognitive scientists develop strategies to mitigate the negative impacts of biases, particularly in areas like medicine, finance, and law, where decision-making is critical.
