@@ -38,7 +38,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <h3> Lecture and lab 4 - RECAP WEEK </h3>
 <ul>
 <li> Wooclap - ipynb version TBA </li>
-<li> By Nasser-Eddine Monir: <a href="{{ BASE_PATH }}/files/Practical-Recap-M1-Python.ipynb">Lab 4 - recap</a>, <a href="{{ BASE_PATH }}/_pages/cognitive_biases.txt">cognitive_biases.txt </a> </li>
+<li> By Nasser-Eddine Monir: <a href="{{ BASE_PATH }}/files/Practical-Recap-M1-Python.ipynb">Lab 4 - recap</a>, <a href="{{ BASE_PATH }}/files/cognitive_biases.txt">cognitive_biases.txt </a> </li>
 </ul>
 
 
