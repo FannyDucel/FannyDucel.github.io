@@ -48,6 +48,12 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <li> By Nasser-Eddine Monir: <a href="{{ BASE_PATH }}/files/Practical-5-M1-Python.ipynb">Lab 5</a>, <a href="{{ BASE_PATH }}/files/data.zip">data for ex 2 </a> </li>
 </ul>
 
+<h3> Lecture and lab 6 - Useful libraries </h3>
+<ul>
+<li>  <a href="{{ BASE_PATH }}/files/M1_Python4Beg_Lecture6_UsefulLibraries.slides.html">Lecture 6</a> </li>
+<li> Lab 6 - TBA </li>
+</ul>
+
 
 
 </details>
