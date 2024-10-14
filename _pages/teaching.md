@@ -51,7 +51,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <h3> Lecture and lab 6 - Useful libraries </h3>
 <ul>
 <li>  <a href="{{ BASE_PATH }}/files/M1_Python4Beg_Lecture6_UsefulLibraries.slides.html">Lecture 6</a> </li>
-<li> Lab 6 - TBA </li>
+<li> <a href="{{ BASE_PATH }}/files/M1_Python4Beg_TD6.ipynb">Lab 6</a> </li>
 </ul>
 
 
