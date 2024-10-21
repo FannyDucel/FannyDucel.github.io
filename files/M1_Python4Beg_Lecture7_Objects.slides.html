@@ -8055,9 +8055,9 @@ Good doggo!
 <span class="k">class</span> <span class="nc">Dog</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span> <span class="c1"># we have to indicate the parent class here</span>
     
     <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">color</span><span class="p">):</span>
-        <span class="n">Animal</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">color</span><span class="p">)</span> <span class="c1"># We inherit these attributes </span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="n">name</span><span class="p">,</span> <span class="n">color</span><span class="p">)</span> <span class="c1"># We inherit these attributes </span>
                                             <span class="c1">#from the Animal class</span>
-        <span class="c1"># super().__init__(name, color) # Alternative way</span>
+        <span class="c1"># Animal.__init__(self, name, color) # Alternative way (less used)</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">noise</span> <span class="o">=</span> <span class="s2">"Woof"</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">tricks</span> <span class="o">=</span> <span class="p">[]</span>
         
