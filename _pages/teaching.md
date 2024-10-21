@@ -54,6 +54,13 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 <li> <a href="{{ BASE_PATH }}/files/M1_Python4Beg_TD6.ipynb">Lab 6</a> </li>
 </ul>
 
+<h3> Lecture and lab 7 - Object-oriented programming </h3>
+<ul>
+<li> <a href="{{ BASE_PATH }}/files/M1_Python4Beg_Lecture7_Objects.slides.html">Lecture 7</a> </li>
+<li> <a href="{{ BASE_PATH }}/files/M1_Python4Beg_TD7.ipynb">Lab 7</a> </li>
+</ul>
+
+
 
 
 </details>
