@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+All the material that I created is under *CC-BY-NC-SA license*.
+
 ## 2024-2025
 
 <details>
