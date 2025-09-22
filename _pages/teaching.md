@@ -7,6 +7,50 @@ author_profile: true
 
 All the material that I created is under *CC-BY-NC-SA license*.
 
+## 2025-2026
+### S1
+<details>
+<summary> <b> Python labs, Beginners group, M1 NLP-SC, IDMC (Nancy), Université de Lorraine. </b> </summary>
+
+See Arche repository and <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
+</details>
+
+<details>
+<summary> <b> Grid5k introduction, M1 NLP, IDMC (Nancy), Université de Lorraine.</b> </summary>
+<ul>
+<li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_2025.pdf">Slides - theory and essential commands</a> </li>
+<li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_practice_2025.pdf">Slides - practice (your turn)</a> </li>
+<li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_solutions_2025.pdf">Solutions from exercises</a> </li>
+</ul>
+</details>
+
+<details>
+<summary> <b> Software, M2 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
+
+See <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
+</details>
+
+<details>
+<summary> <b> One Ethics lecture, M2 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
+
+TBA.
+</details>
+
+### S2
+
+<details>
+<summary> <b> Algorithmique avancée appliquée à Python, L2 MIASH, IDMC (Nancy), Université de Lorraine. </b> </summary>
+TBA.
+</details>
+
+<details>
+<summary> <b> Introduction au TAL, L3 TAL, IDMC (Nancy), Université de Lorraine. </b> </summary>
+
+TBA.
+</details>
+
+
+
 ## 2024-2025
 
 <details>
@@ -68,7 +112,7 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 </details>
 
 <details>
-<summary> <b> Grid5k introduction, M1 NLP-SC, IDMC (Nancy), Université de Lorraine.</b> </summary>
+<summary> <b> Grid5k introduction, M1 NLP, IDMC (Nancy), Université de Lorraine.</b> </summary>
 <ul>
 <li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL.pdf">Slides - theory and essential commands</a> </li>
 <li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_practice.pdf">Slides - practice (your turn)</a> </li>
@@ -76,9 +120,23 @@ Materials (all from <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024
 </ul>
 </details>
 
-### Ethics labs, M1 NLP, IDMC (Nancy), Université de Lorraine.
+<details>
+<summary> <b> Ethics labs, M1 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
 
-### Ethics labs, M2 NLP, IDMC (Nancy), Université de Lorraine.
+See <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
+</details>
+
+<details>
+<summary> <b> Ethics labs, M2 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
+
+See <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
+</details>
+
+<details>
+<summary> <b> De l'Écrit à l'Information, L1 MIASH, IDMC (Nancy), Université de Lorraine. </b> </summary>
+
+See <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
+</details>
 
 ****
 
