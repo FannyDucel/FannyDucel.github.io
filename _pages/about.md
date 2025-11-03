@@ -11,9 +11,9 @@ redirect_from:
 <h2>"Bienvenue" on my personal academic page!</h2>
 
 
-<h4>ducelfanny@gmail.com
+<h4>fanny.ducel@universite-paris-saclay.fr
 
-fanny.ducel@lisn.upsaclay.fr</h4>
+fanny.ducel@inria.fr</h4>
 
 _________________________________________________________________________________
 

@@ -16,6 +16,15 @@ See Arche repository and <a href="https://members.loria.fr/KFort/idmc-nancy-from
 </details>
 
 <details>
+<summary> <b> Latex introduction, M1 NLP, IDMC (Nancy), Université de Lorraine.</b> </summary>
+<ul>
+<li>  <a href="{{ BASE_PATH }}/files/Latex_M1TAL.pdf">Slides - tutorial</a> </li>
+<li>  <a href="{{ BASE_PATH }}/files/M1_Latex_Hands_on.zip">Hands on </a> </li>
+<li> Solutions - TBA after the session </li>
+</ul>
+</details>
+
+<details>
 <summary> <b> Grid5k introduction, M1 NLP, IDMC (Nancy), Université de Lorraine.</b> </summary>
 <ul>
 <li>  <a href="{{ BASE_PATH }}/files/Grid5k_M1TAL_2025.pdf">Slides - theory and essential commands</a> </li>
@@ -25,7 +34,7 @@ See Arche repository and <a href="https://members.loria.fr/KFort/idmc-nancy-from
 </details>
 
 <details>
-<summary> <b> Software, M2 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
+<summary> <b> Software projects, M2 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
 
 See <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
 </details>
