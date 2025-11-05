@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yR-y0zIAAAAJ) and a dynamically updated list [here](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Fanny%2CDucel&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css) and displayed below:
 
 
-<iframe width="100%" height="500%" frameborder="0" style="overflow:hidden; display:block;  min-height: 100vh;  background-color: #f2f0ea; border: none;" src=https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Fanny%2CDucel&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css></iframe>
+<iframe width="100%" height="500%" frameborder="0" style="overflow:hidden; display:block;  min-height: 100vh;  background-color: #f2f0ea; border: none;" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Fanny%2CDucel&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css"></iframe>
 
 
 
