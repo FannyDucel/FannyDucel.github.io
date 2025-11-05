@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<h2>"Bienvenue" on my personal academic page!</h2>
+<h2>Welcome on my personal academic page!</h2>
 
 
-<h4>fanny.ducel@universite-paris-saclay.fr
+<h4>fanny.ducel@universite-paris-saclay.fr    /   
 
-fanny.ducel@inria.fr</h4>
+fanny.ducel@inria.fr (IDMC students: please prefer this e-mail address)</h4>
 
 _________________________________________________________________________________
 
@@ -28,8 +28,6 @@ I have a master's degree in Linguistics and Computer Science and a bachelor's de
 <h3>Interests</h3>
 
 I'm especially interested in ethics, NLP4NLP, linguistic diversity, and sociolinguistics. 
-
-I'm a member of the editorial board of the ["Éthique et TAL" (Ethics and NLP) blog](http://www.ethique-et-tal.org/), feel free to check it out! I co-authored some articles, and we accept submissions from anyone, in French or English :).
 
 <!--
 I've already worked on the application of the #BenderRule in ACL, LREC and TALN articles and co-authored 2 articles regarding that study. In September 2022, I defended my M1 thesis on claims in NLP articles. I'm currently working on my M2 thesis on biases in Language Models.

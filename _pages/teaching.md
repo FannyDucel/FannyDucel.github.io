@@ -20,7 +20,7 @@ See Arche repository and <a href="https://members.loria.fr/KFort/idmc-nancy-from
 <ul>
 <li>  <a href="{{ BASE_PATH }}/files/Latex_M1TAL.pdf">Slides - tutorial</a> </li>
 <li>  <a href="{{ BASE_PATH }}/files/M1_Latex_Hands_on.zip">Hands on </a> </li>
-<li> Solutions - TBA after the session </li>
+<li> <a href="{{ BASE_PATH }}/files/M1_Latex_Hands_on_correction.zip">Correction </a> </li>
 </ul>
 </details>
 
