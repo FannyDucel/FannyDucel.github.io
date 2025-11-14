@@ -35,7 +35,9 @@ See Arche repository and <a href="https://members.loria.fr/KFort/idmc-nancy-from
 
 <details>
 <summary> <b> Software projects, M2 NLP, IDMC (Nancy), Université de Lorraine. </b> </summary>
-
+<ul>
+<li> <a href="{{ BASE_PATH }}/files/M2_ProjectsEvalMidSem.pdf"> Slides for the evaluation </a> </li>
+</ul>
 See <a href="https://members.loria.fr/KFort/idmc-nancy-from-2024/">Karën Fort's website</a>.
 </details>
 
