@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: 06/2026 (French version), 10/2025 (English version)
+Last updated: 06/2026 (French version), 06/26 (English version)
 
-[English version]({{ BASE_PATH }}/_pages/CV_ducel_fanny-en_10-25.pdf)
+[English version]({{ BASE_PATH }}/_pages/CV_ducel_fanny-en_06-26.pdf)
 
 [French version]({{ BASE_PATH }}/_pages/CV_ducel_fanny-fr_06-26.pdf)
